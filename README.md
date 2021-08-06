@@ -1,2 +1,2 @@
 # RTOS
-Cooperative RTOS
+Cooperative RTOS and Preemptive RTOS
